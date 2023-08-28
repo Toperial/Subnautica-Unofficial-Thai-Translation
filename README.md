@@ -23,17 +23,17 @@
 ######ปล.2 หรือจะไปช่วยแปลที่โครงการแปลไทยแบบทางการ ของผู้พัฒนาเกมโดยตรงเลยก็ได้ที่ http://translate.unknownworlds.com/translations
 
 ###รายการคำแปลชื่อ
-Aurora = ออโรรา
-Battery = แบตเตอรี่
-Beacon = เครื่องระบุตำแหน่ง
-Cyclops = ไซคลอปส์
-Invemtory = ช่องเก็บของ
-EscapePod = ยานชูชีพ
-Locker = ตู้เก็บของ
-Mobile Vehicle Bay = เครื่องสร้างยานพาหนะแบบพกพา
-Offline = ไม่ทำงาน
-Online = ทำงาน
-Power cell = เพาเวอร์เซลล์
-Quatz = แร่เขี้ยวหนุมาณ
-Storage = ที่เก็บของ
-Subnautica = ซับนาวติกะ
+- Aurora = ออโรรา
+- Battery = แบตเตอรี่
+- Beacon = เครื่องระบุตำแหน่ง
+- Cyclops = ไซคลอปส์
+- Invemtory = ช่องเก็บของ
+- EscapePod = ยานชูชีพ
+- Locker = ตู้เก็บของ
+- Mobile Vehicle Bay = เครื่องสร้างยานพาหนะแบบพกพา
+- Offline = ไม่ทำงาน
+- Online = ทำงาน
+- Power cell = เพาเวอร์เซลล์
+- Quatz = แร่เขี้ยวหนุมาณ
+- Storage = ที่เก็บของ
+- Subnautica = ซับนาวติกะ
